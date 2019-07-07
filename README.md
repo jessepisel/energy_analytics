@@ -32,17 +32,17 @@ TEACHING ASSISTANT: TBD
 
 **Suggested References:** 
 
-**Geostatistics: **
+**Geostatistics:**
 
 + Pyrcz, M.J., and Deutsch, C.V.,2014, Geostatistical Reservoir Modeling. Oxford University Press. 
 + Jensen, J. R., Lake, L. W., Corbett P. M. W., and Goggin, D. J., 2000, Statistics for Petroleum Engineers and Geoscientists, Elsevier. 
 
-**Statistics / Statistical Modeling: **
+**Statistics / Statistical Modeling:**
 
 + Dekking, F. M., Kraaikamp, C., Lopuhaa, H. P., and Meester L. E., 2007, A Modern Introduction to Probability and Statistics Understanding Why and How. Springer-Verlag. 
 + James, G., Witten, D., Hastie, T., Tibshirani, R., 2013, An Introduction to Statistical Learning with Applications in R, Springer. 
 
-**Additional Instructional Materials **
+**Additional Instructional Materials**
 
 The instructor will distribute field examples in the class or on the course website. 
 
