@@ -1,4 +1,4 @@
-![Energy Analytics Logo](https://github.com/jessepisel/energy_analytics/blob/master/EA_logo.jpg){ width=50% }
+![Energy Analytics Logo](https://github.com/jessepisel/energy_analytics/blob/master/EA_logo.jpg){:height="100px" width="100px"}
 # CS 309 Freshman Research Initiative Energy Analytics
 ## Course in energy analytics
 Principal Investigator: Michael Pyrcz
