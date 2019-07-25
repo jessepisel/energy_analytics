@@ -37,4 +37,5 @@ dependencies:
       - welly
       - striplog
       - pyvista
-      - pvgeo  
+      - pvgeo
+      - geostatspy  
