@@ -21,7 +21,7 @@ dependencies:
     - statsmodels
     - uncertainties
     #machine learning packages
-    - tensorflow-gpu
+    - tensorflow
     - keras-gpu
     - missingno
     #things that need pip
