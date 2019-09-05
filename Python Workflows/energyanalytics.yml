@@ -22,7 +22,7 @@ dependencies:
     - uncertainties
     #machine learning packages
     - tensorflow
-    - keras-gpu
+    - keras
     - missingno
     #things that need pip
     - pip
