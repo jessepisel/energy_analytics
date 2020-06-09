@@ -50,5 +50,3 @@ The instructor will distribute field examples in the class or on the course webs
 I hope that this is helpful to those that want to learn more about energy analytics, geostatistics, subsurface modeling, geology, and machine learning.
 
 Want to invite me to visit your company for training, mentoring, project review, workflow design and consulting, I'd be happy to drop by and work with you!
-
-Interested in partnering, supporting graduate student research or the Subsurface Data Analytics and Machine Learning consortium (co-PIs including Profs. Foster, Torres-Verdin and van Oort)? My research combines data analytics, stochastic modeling and machine learning theory with practice to develop novel methods and workflows to add value. We are solving challenging subsurface problems!
